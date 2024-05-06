@@ -1,0 +1,26 @@
+.oshi {
+    background-color: black;
+} 
+
+.marhsa{
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+
+}
+.kata-kata{
+height: 10px
+}
+.oshi-2{
+    height: 100px;
+}
+.wibu {
+    height: 200px;
+    width: 200px;
+}
+.marhsa { 
+    display: flex;}
+.wrapper {
+width: 200px;
+border-radius: 5pc}
